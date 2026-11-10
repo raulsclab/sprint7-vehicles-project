@@ -8,3 +8,6 @@ Aplicación web interactiva desarrollada con **Streamlit**, **Pandas** y **Plotl
 
 ## Enlace a la aplicación en Render
 https://sprint7-vehicles-project.onrender.com
+
+## Enlace a la aplicación en Render
+https://sprint7-vehicles-project.onrender.com
